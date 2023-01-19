@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weather_of_city">Weather of City</string>
+    <string name="unit_hpa">hpa</string>
+    <string name="unit_percentage">%</string>
+    <string name="unit_kmh">km/h</string>
+    <string name="last_update_on">\"Last updated on \"</string>
+    <string name="forecast">Forecast</string>
+    <string name="gps_error">Couldn\'t retrieve your location. Please turn on GPS and restart the application.</string>
+    <string name="error_message">An unknown error occurred.</string>
+</resources>
